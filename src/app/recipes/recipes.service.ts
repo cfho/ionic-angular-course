@@ -8,14 +8,14 @@ export class RecipesService {
   private recipes: Recipe[] = [
     {
       id: 'r1',
-      title: 'Hcf',
+      title: 'Pasta',
       imageUrl:
         'https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mmm..._elicoidali_pasta_%2813257080663%29.jpg/255px-Mmm..._elicoidali_pasta_%2813257080663%29.jpg',
       ingredients: ['beef', 'mikl'],
     },
     {
       id: 'r2',
-      title: 'Helen',
+      title: 'Soup',
       imageUrl:
         'https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mmm..._elicoidali_pasta_%2813257080663%29.jpg/255px-Mmm..._elicoidali_pasta_%2813257080663%29.jpg',
       ingredients: ['beef', 'mikl'],
